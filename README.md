@@ -22,14 +22,15 @@ I'm Tristan, a developer from the <img src="https://cdn-icons-png.flaticon.com/5
 
 ![Tristanh00's github stats](https://github-readme-stats.vercel.app/api?username=tristanh00&show_icons=true) 
 <!-- 
-### :bar_chart: Where I spend my dev time  
+### :bar_chart: Where I spend my dev time -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### :zap: My Recent Activity
+<!-- ### :zap: My Recent Activity -->
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity--> 
+
 
 ### 💥 Where to find me
 <p>
