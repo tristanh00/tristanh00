@@ -2,7 +2,7 @@
 
 Welcome to my Github! :wave:  
 
-I'm Tristan, a developer from the <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> **United States** 
+I'm Tristan, a defi investor / developer from the <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> **United States** 
 
 ### Things I code with
 <p>
